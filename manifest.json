@@ -2,7 +2,7 @@
     "name": "Calculator APP PWA Edition",
     "short_name":"Calc App",
     "description":"Calculator application turned into progressive web application",
-    "start_url":"http://localhost/calcPWA/calculat.html",
+    "start_url":"http://localhost/calcPWA/index.html",
     "theme_color": "#317EFB",
     "background_color":"#317EFB",
     "display" : "minimal-ui",
