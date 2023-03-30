@@ -1,7 +1,7 @@
 const cacheName = 'joke-offline';
 const preCache = [
     './',
-    './calculat.html',
+    './index.html',
     './sw.js',   
     './manifest.json'
 ]
