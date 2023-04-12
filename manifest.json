@@ -2,7 +2,7 @@
     "name": "Calculator APP PWA Edition",
     "short_name":"Calc App",
     "description":"Calculator application turned into progressive web application",
-    "start_url":"https://cohenj54.github.io/",
+    "start_url":"https://cohenj54.github.io",
     "theme_color": "#317EFB",
     "background_color":"#317EFB",
     "display" : "minimal-ui",
